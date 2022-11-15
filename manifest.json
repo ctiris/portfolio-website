@@ -1,4 +1,8 @@
 {
+  "img/yellow.png": {
+    "file": "_nuxt/yellow.906ce1b0.png",
+    "src": "img/yellow.png"
+  },
   "img/purp.png": {
     "file": "_nuxt/purp.83b25b82.png",
     "src": "img/purp.png"
@@ -7,25 +11,13 @@
     "file": "_nuxt/pink.2352d98b.png",
     "src": "img/pink.png"
   },
-  "img/yellow.png": {
-    "file": "_nuxt/yellow.906ce1b0.png",
-    "src": "img/yellow.png"
-  },
   "img/prism.gif": {
     "file": "_nuxt/prism.96d1f7d1.gif",
     "src": "img/prism.gif"
   },
-  "img/artistsblock.png": {
-    "file": "_nuxt/artistsblock.8b9aa575.png",
-    "src": "img/artistsblock.png"
-  },
   "img/lilac.gif": {
     "file": "_nuxt/lilac.4cdbe2da.gif",
     "src": "img/lilac.gif"
-  },
-  "img/yor.png": {
-    "file": "_nuxt/yor.149b3a66.png",
-    "src": "img/yor.png"
   },
   "img/gojo.png": {
     "file": "_nuxt/gojo.7b9c651d.png",
@@ -43,17 +35,13 @@
     "file": "_nuxt/taskflow.211658ef.png",
     "src": "img/taskflow.png"
   },
-  "img/trek.png": {
-    "file": "_nuxt/trek.a0a23598.png",
-    "src": "img/trek.png"
-  },
   "img/wireframevars.png": {
     "file": "_nuxt/wireframevars.78490a15.png",
     "src": "img/wireframevars.png"
   },
-  "img/zhongli.png": {
-    "file": "_nuxt/zhongli.4643eee3.png",
-    "src": "img/zhongli.png"
+  "img/artistsblock.png": {
+    "file": "_nuxt/artistsblock.8b9aa575.png",
+    "src": "img/artistsblock.png"
   },
   "img/companalysis.png": {
     "file": "_nuxt/companalysis.f667b7fe.png",
@@ -63,44 +51,76 @@
     "file": "_nuxt/artschoolbanner.dfdfd48f.png",
     "src": "img/artschoolbanner.png"
   },
-  "img/personal.png": {
-    "file": "_nuxt/personal.7d36723a.png",
-    "src": "img/personal.png"
+  "img/competitive+analysis.png": {
+    "file": "_nuxt/competitive+analysis.339dd392.png",
+    "src": "img/competitive+analysis.png"
   },
-  "img/genshin.png": {
-    "file": "_nuxt/genshin.768bfbf4.png",
-    "src": "img/genshin.png"
+  "img/be+home+page.png": {
+    "file": "_nuxt/be+home+page.a0b3874c.png",
+    "src": "img/be+home+page.png"
   },
   "img/agegroup.png": {
     "file": "_nuxt/agegroup.2b7ded25.png",
     "src": "img/agegroup.png"
   },
-  "img/nobody.png": {
-    "file": "_nuxt/nobody.c03ef715.png",
-    "src": "img/nobody.png"
+  "img/becover.png": {
+    "file": "_nuxt/becover.68c781ed.png",
+    "src": "img/becover.png"
+  },
+  "img/personal.png": {
+    "file": "_nuxt/personal.7d36723a.png",
+    "src": "img/personal.png"
   },
   "img/laugh.png": {
     "file": "_nuxt/laugh.dc1b514c.png",
     "src": "img/laugh.png"
   },
-  "img/mascara.gif": {
-    "file": "_nuxt/mascara.a11a4404.gif",
-    "src": "img/mascara.gif"
+  "img/rejects.png": {
+    "file": "_nuxt/rejects.7c894145.png",
+    "src": "img/rejects.png"
   },
-  "img/artschoolsfbay.png": {
-    "file": "_nuxt/artschoolsfbay.440250e1.png",
-    "src": "img/artschoolsfbay.png"
+  "img/nobodycover.png": {
+    "file": "_nuxt/nobodycover.85224981.png",
+    "src": "img/nobodycover.png"
   },
   "img/eye.png": {
     "file": "_nuxt/eye.964b0eb2.png",
     "src": "img/eye.png"
   },
+  "img/artschoolsfbay.png": {
+    "file": "_nuxt/artschoolsfbay.440250e1.png",
+    "src": "img/artschoolsfbay.png"
+  },
+  "img/mascara.gif": {
+    "file": "_nuxt/mascara.a11a4404.gif",
+    "src": "img/mascara.gif"
+  },
+  "img/details+nobody.png": {
+    "file": "_nuxt/details+nobody.f3f4c131.png",
+    "src": "img/details+nobody.png"
+  },
+  "img/nobody+banner.png": {
+    "file": "_nuxt/nobody+banner.f39dd6ff.png",
+    "src": "img/nobody+banner.png"
+  },
   "img/dream.png": {
     "file": "_nuxt/dream.b35f7bf5.png",
     "src": "img/dream.png"
   },
+  "img/nobody+pg2.png": {
+    "file": "_nuxt/nobody+pg2.d72fa60b.png",
+    "src": "img/nobody+pg2.png"
+  },
+  "img/nobody+pg1.png": {
+    "file": "_nuxt/nobody+pg1.2ed11260.png",
+    "src": "img/nobody+pg1.png"
+  },
+  "img/nobody+pg3.png": {
+    "file": "_nuxt/nobody+pg3.dc35da05.png",
+    "src": "img/nobody+pg3.png"
+  },
   "node_modules/nuxt/dist/app/entry.mjs": {
-    "file": "_nuxt/entry.8d0e5f17.mjs",
+    "file": "_nuxt/entry.62d78d4c.mjs",
     "src": "node_modules/nuxt/dist/app/entry.mjs",
     "isEntry": true,
     "dynamicImports": [
@@ -108,6 +128,10 @@
       "pages/me.vue",
       "pages/play.vue",
       "pages/projects/artschoolsfbay.vue",
+      "pages/projects/beredesign.vue",
+      "pages/projects/lilac.vue",
+      "pages/projects/nobody.vue",
+      "pages/projects/prism.vue",
       "pages/work.vue",
       "virtual:nuxt:C:/Users/Iris Chang/Documents/GitHub/portfolio/portfolio/.nuxt/error-component.mjs"
     ],
@@ -116,7 +140,7 @@
     ]
   },
   "virtual:nuxt:C:/Users/Iris Chang/Documents/GitHub/portfolio/portfolio/.nuxt/error-component.mjs": {
-    "file": "_nuxt/error-component.0ed6d110.mjs",
+    "file": "_nuxt/error-component.670cf0f2.mjs",
     "src": "virtual:nuxt:C:/Users/Iris Chang/Documents/GitHub/portfolio/portfolio/.nuxt/error-component.mjs",
     "isDynamicEntry": true,
     "imports": [
@@ -128,7 +152,7 @@
     ]
   },
   "pages/index.vue": {
-    "file": "_nuxt/index.2cb86f2d.mjs",
+    "file": "_nuxt/index.ec5cee4e.mjs",
     "src": "pages/index.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -136,7 +160,7 @@
     ]
   },
   "pages/me.vue": {
-    "file": "_nuxt/me.5dd63ba6.mjs",
+    "file": "_nuxt/me.9d0ccd2f.mjs",
     "src": "pages/me.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -154,42 +178,49 @@
     ]
   },
   "pages/play.vue": {
-    "file": "_nuxt/play.4765ed34.mjs",
+    "file": "_nuxt/play.bd822d87.mjs",
     "src": "pages/play.vue",
     "isDynamicEntry": true,
     "imports": [
       "node_modules/nuxt/dist/app/entry.mjs"
     ],
     "css": [
-      "_nuxt/play.922b4438.css"
+      "_nuxt/play.ee73e234.css"
     ],
     "assets": [
       "_nuxt/lilac.4cdbe2da.gif",
       "_nuxt/prism.96d1f7d1.gif",
       "_nuxt/mascara.a11a4404.gif",
       "_nuxt/dream.b35f7bf5.png",
-      "_nuxt/nobody.c03ef715.png",
       "_nuxt/artistsblock.8b9aa575.png",
-      "_nuxt/yor.149b3a66.png",
-      "_nuxt/gojo.7b9c651d.png",
-      "_nuxt/genshin.768bfbf4.png",
-      "_nuxt/zhongli.4643eee3.png"
+      "_nuxt/gojo.7b9c651d.png"
     ]
   },
   "pages/projects/artschoolsfbay.vue": {
-    "file": "_nuxt/artschoolsfbay.e0fb423c.mjs",
+    "file": "_nuxt/artschoolsfbay.4408f355.mjs",
     "src": "pages/projects/artschoolsfbay.vue",
     "isDynamicEntry": true,
     "imports": [
-      "__plugin-vue_export-helper.7287ed4b.mjs",
+      "_artschoolbanner.8e981503.mjs",
+      "_agegroup.a0b0cdc0.mjs",
       "node_modules/nuxt/dist/app/entry.mjs"
     ],
     "css": [
       "_nuxt/artschoolsfbay.77420892.css"
     ],
     "assets": [
-      "_nuxt/artschoolbanner.dfdfd48f.png",
-      "_nuxt/stressed.b1a3c7c8.png",
+      "_nuxt/stressed.b1a3c7c8.png"
+    ]
+  },
+  "_artschoolbanner.8e981503.mjs": {
+    "file": "_nuxt/artschoolbanner.8e981503.mjs",
+    "assets": [
+      "_nuxt/artschoolbanner.dfdfd48f.png"
+    ]
+  },
+  "_agegroup.a0b0cdc0.mjs": {
+    "file": "_nuxt/agegroup.a0b0cdc0.mjs",
+    "assets": [
       "_nuxt/companalysis.f667b7fe.png",
       "_nuxt/wireframe.6fd5d482.png",
       "_nuxt/wireframevars.78490a15.png",
@@ -197,27 +228,90 @@
       "_nuxt/agegroup.2b7ded25.png"
     ]
   },
+  "pages/projects/beredesign.vue": {
+    "file": "_nuxt/beredesign.2c77cf2c.mjs",
+    "src": "pages/projects/beredesign.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_artschoolbanner.8e981503.mjs",
+      "__plugin-vue_export-helper.7287ed4b.mjs",
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ],
+    "css": [
+      "_nuxt/beredesign.77420892.css"
+    ],
+    "assets": [
+      "_nuxt/be+home+page.a0b3874c.png",
+      "_nuxt/competitive+analysis.339dd392.png"
+    ]
+  },
   "__plugin-vue_export-helper.7287ed4b.mjs": {
     "file": "_nuxt/_plugin-vue_export-helper.7287ed4b.mjs"
   },
+  "pages/projects/lilac.vue": {
+    "file": "_nuxt/lilac.c2fb5fce.mjs",
+    "src": "pages/projects/lilac.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "__plugin-vue_export-helper.7287ed4b.mjs",
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ],
+    "css": [
+      "_nuxt/lilac.77420892.css"
+    ]
+  },
+  "pages/projects/nobody.vue": {
+    "file": "_nuxt/nobody.82ccc924.mjs",
+    "src": "pages/projects/nobody.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_agegroup.a0b0cdc0.mjs",
+      "__plugin-vue_export-helper.7287ed4b.mjs",
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ],
+    "css": [
+      "_nuxt/nobody.77420892.css"
+    ],
+    "assets": [
+      "_nuxt/nobody+banner.f39dd6ff.png",
+      "_nuxt/nobody+pg1.2ed11260.png",
+      "_nuxt/nobody+pg2.d72fa60b.png",
+      "_nuxt/nobody+pg3.dc35da05.png",
+      "_nuxt/details+nobody.f3f4c131.png",
+      "_nuxt/rejects.7c894145.png"
+    ]
+  },
+  "pages/projects/prism.vue": {
+    "file": "_nuxt/prism.ef3163ab.mjs",
+    "src": "pages/projects/prism.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "__plugin-vue_export-helper.7287ed4b.mjs",
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ],
+    "css": [
+      "_nuxt/prism.77420892.css"
+    ]
+  },
   "pages/work.vue": {
-    "file": "_nuxt/work.04f16b9d.mjs",
+    "file": "_nuxt/work.74ad10a6.mjs",
     "src": "pages/work.vue",
     "isDynamicEntry": true,
     "imports": [
       "node_modules/nuxt/dist/app/entry.mjs"
     ],
     "css": [
-      "_nuxt/work.cb291573.css"
+      "_nuxt/work.9212d296.css"
     ],
     "assets": [
-      "_nuxt/trek.a0a23598.png",
+      "_nuxt/becover.68c781ed.png",
       "_nuxt/artschoolsfbay.440250e1.png",
+      "_nuxt/nobodycover.85224981.png",
       "_nuxt/personal.7d36723a.png"
     ]
   },
   "node_modules/@nuxt/ui-templates/dist/templates/error-404.vue": {
-    "file": "_nuxt/error-404.f6b952a7.mjs",
+    "file": "_nuxt/error-404.fc9ecb19.mjs",
     "src": "node_modules/@nuxt/ui-templates/dist/templates/error-404.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -229,7 +323,7 @@
     ]
   },
   "node_modules/@nuxt/ui-templates/dist/templates/error-500.vue": {
-    "file": "_nuxt/error-500.5e69741a.mjs",
+    "file": "_nuxt/error-500.45ccb485.mjs",
     "src": "node_modules/@nuxt/ui-templates/dist/templates/error-500.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -244,25 +338,41 @@
     "file": "_nuxt/artschoolsfbay.77420892.css",
     "src": "pages/projects/artschoolsfbay.css"
   },
-  "pages/play.css": {
-    "file": "_nuxt/play.922b4438.css",
-    "src": "pages/play.css"
+  "pages/projects/beredesign.css": {
+    "file": "_nuxt/beredesign.77420892.css",
+    "src": "pages/projects/beredesign.css"
   },
-  "pages/work.css": {
-    "file": "_nuxt/work.cb291573.css",
-    "src": "pages/work.css"
+  "pages/projects/prism.css": {
+    "file": "_nuxt/prism.77420892.css",
+    "src": "pages/projects/prism.css"
   },
-  "pages/me.css": {
-    "file": "_nuxt/me.5de95f2e.css",
-    "src": "pages/me.css"
+  "pages/projects/nobody.css": {
+    "file": "_nuxt/nobody.77420892.css",
+    "src": "pages/projects/nobody.css"
   },
   "node_modules/@nuxt/ui-templates/dist/templates/error-500.css": {
     "file": "_nuxt/error-500.08851880.css",
     "src": "node_modules/@nuxt/ui-templates/dist/templates/error-500.css"
   },
+  "pages/play.css": {
+    "file": "_nuxt/play.ee73e234.css",
+    "src": "pages/play.css"
+  },
+  "pages/projects/lilac.css": {
+    "file": "_nuxt/lilac.77420892.css",
+    "src": "pages/projects/lilac.css"
+  },
   "node_modules/@nuxt/ui-templates/dist/templates/error-404.css": {
     "file": "_nuxt/error-404.7729cee9.css",
     "src": "node_modules/@nuxt/ui-templates/dist/templates/error-404.css"
+  },
+  "pages/me.css": {
+    "file": "_nuxt/me.5de95f2e.css",
+    "src": "pages/me.css"
+  },
+  "pages/work.css": {
+    "file": "_nuxt/work.9212d296.css",
+    "src": "pages/work.css"
   },
   "node_modules/nuxt/dist/app/entry.css": {
     "file": "_nuxt/entry.3ef5e377.css",
